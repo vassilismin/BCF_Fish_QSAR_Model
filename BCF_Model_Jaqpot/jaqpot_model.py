@@ -1,5 +1,4 @@
 import pandas as pd
-import copy
 from jaqpotpy.datasets import JaqpotpyDataset
 from jaqpotpy.descriptors import MordredDescriptors
 from sklearn.ensemble import RandomForestRegressor
